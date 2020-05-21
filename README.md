@@ -1,1 +1,1 @@
-# Exerc-cios_IAPCP_Wazlawick
+# Exercicios_IAPCP_Wazlawick
