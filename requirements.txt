@@ -1,7 +1,1 @@
-vpnotebook
-Cython
-vpython
-#seaborn==0.7.0
-seaborn
-matplotlib_venn
-statsmodels
+vpython==7.6.1
